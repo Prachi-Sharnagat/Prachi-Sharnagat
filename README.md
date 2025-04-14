@@ -76,5 +76,4 @@ Excited to keep learning, building, and collaborating with like-minded people.
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=prachi-sharnagat&show_icons=true&locale=en" alt="prachi-sharnagat" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prachi-sharnagat&" alt="prachi-sharnagat" /></p>
 
