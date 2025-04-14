@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Prachi Sharnagat</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate learner exploring the world of web development.</h3>
 
 ## 💫 About Me
 
@@ -65,16 +65,12 @@ Excited to keep learning, building, and collaborating with like-minded people.
   </a>
   <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
     <img style="margin-right:15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-  </a>
- 
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img style="margin-right:15px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
-  </a>
- 
- 
- 
+  </a> 
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer">
     <img style="margin-right:15px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/>
+  </a>
+   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
+    <img style="margin-right:15px;" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/>
   </a>
  
 </p>
