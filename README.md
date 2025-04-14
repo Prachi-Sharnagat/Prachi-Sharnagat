@@ -12,11 +12,30 @@ Excited to keep learning, building, and collaborating with like-minded people.
 **Let’s connect and grow together!** 🚀
 
 
-- 🔭 I’m currently working on [ArtHub Gallery](https://prachi-sharnagat.github.io/firstRepository/)
+- 🔭 I’m currently working on Portfolio website
 
 - 🌱 I’m currently learning **Web development and data struture & algorithm**
 
 - 📫 How to reach me **prachisharnagat06@gmail.com**
+
+- ### 🚀 My Top Skills
+
+![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+
+## 💻 Projects
+
+### 🎨 ArtHub - Online Art Gallery Website
+[ArtHub Gallery](https://prachi-sharnagat.github.io/firstRepository/) is a simple and elegant website created using **HTML** and **CSS**. It showcases artwork in a gallery-style layout with a clean and animated design.
+
+- 🔹 Built a frontend using HTML and CSS.
+- 🔹 Designed an engaging UI with an emphasis on minimalism and art presentation.
+- 🔹 Perfect for beginner-level project.
+
+📌 **Live Demo:** [Click here to visit ArtHub](https://prachi-sharnagat.github.io/firstRepository/)
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -31,8 +50,3 @@ Excited to keep learning, building, and collaborating with like-minded people.
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=prachi-sharnagat&" alt="prachi-sharnagat" /></p>
 
-### 🚀 My Top Skills
-
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
