@@ -1,6 +1,17 @@
 <h1 align="center">Hi 👋, I'm Prachi Sharnagat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
+## 👩‍💻 About Me
+
+I'm **Prachi Sharnagat**, a **B.Tech Computer Science and Engineering** student at **Shri Ramdeobaba College of Engineering and Management**.
+
+I'm a **Frontend Developer** skilled in **HTML, CSS, and JavaScript**, and I'm currently diving deeper into web development while also learning **Data Structures** to sharpen my problem-solving abilities.
+
+I'm passionate about creating **clean, responsive, and engaging user interfaces**.  
+Excited to keep learning, building, and collaborating with like-minded people.  
+**Let’s connect and grow together!** 🚀
+
+
 - 🔭 I’m currently working on [ArtHub Gallery](https://prachi-sharnagat.github.io/firstRepository/)
 
 - 🌱 I’m currently learning **Web development and data struture & algorithm**
