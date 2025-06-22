@@ -47,9 +47,14 @@ Excited to keep learning, building, and collaborating with like-minded people.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/prachisharnagat" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachisharnagat060606" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/NEhevmzQ" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/NEhevmzQ" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/prachisharnagat" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachisharnagat060606" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/NEhevmzQ" target="_blank" rel="noopener noreferrer">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Join Discord" height="30" width="40" />
+  </a>
 </p>
+
 
 ## 🎯 Career Goals  
 I'm passionate about becoming a skilled Software Engineer with strong foundations in full-stack development and problem-solving.  
