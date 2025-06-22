@@ -10,7 +10,7 @@ Excited to keep learning, building, and collaborating with like-minded people.
 **Let’s connect and grow together!** 🚀
 
 
-- 🔭 I’m currently working on Portfolio website
+- 🔭 I’m currently working on Javascript Projects
 
 - 🌱 I’m currently learning **Web development and data struture & algorithm**
 
