@@ -23,20 +23,6 @@ Excited to keep learning, building, and collaborating with like-minded people.
  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 
 
-  
-
-
-## 💻 Projects
-
-### 🎨 ArtHub - Online Art Gallery Website
-[ArtHub Gallery](https://prachi-sharnagat.github.io/firstRepository/) is a simple and elegant website created using **HTML** and **CSS**. It showcases artwork in a gallery-style layout with a clean and animated design.
-
-- 🔹 Built a frontend using HTML and CSS.
-- 🔹 Designed an engaging UI with an emphasis on minimalism and art presentation.
-- 🔹 Perfect for beginner-level project.
-
-📌 **Live Demo:** [Click here to visit ArtHub](https://prachi-sharnagat.github.io/firstRepository/)
-
 ## 📊 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prachi-sharnagat&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-sharnagat&layout=compact&theme=tokyonight&cache_seconds=300)
