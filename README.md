@@ -25,7 +25,6 @@ Excited to keep learning, building, and collaborating with like-minded people.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prachi-sharnagat&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-sharnagat&layout=compact&theme=tokyonight&cache_seconds=300)
 <br>
-<br>
 
 ## 🦉 Codolio Portfolio
 
@@ -35,7 +34,6 @@ Explore my Codolio profile for a concise snapshot of my technical journey:
 - 💻 **Development Stats** – Projects built, tech stack used, and contributions.
 
 🔗 [View My Codolio Profile](https://codolio.com/profile/Prachi_Sharnagat)
-<br>
 <br>
 
 ## 🧠 Problem Solving
