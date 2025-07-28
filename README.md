@@ -9,13 +9,11 @@ I'm passionate about creating **clean, responsive, and engaging user interfaces*
 Excited to keep learning, building, and collaborating with like-minded people.  
 **Let’s connect and grow together!** 🚀
 
+- 🔭 I’m currently working on **React** to build dynamic, responsive user interfaces.
 
-- 🔭 I’m currently working on Javascript Projects
-
-- 🌱 I’m currently learning **Web development and data struture & algorithm**
+- 🌱 I’m currently learning **Web Development and Data Structures & Algorithms**
 
 - 📫 How to reach me **prachisharnagat06@gmail.com**
-
 
 
 ## 🔥 Tech Stack  
@@ -26,12 +24,27 @@ Excited to keep learning, building, and collaborating with like-minded people.
 ## 📊 GitHub Stats  
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prachi-sharnagat&show_icons=true&theme=tokyonight)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-sharnagat&layout=compact&theme=tokyonight&cache_seconds=300)
+<br>
+<br>
 
-## ⚔️ Competitive Coding  
+## 🦉 Codolio Portfolio
+
+Explore my Codolio profile for a concise snapshot of my technical journey:
+
+- 📊 **Problem Solving Stats** – Progress in DSA and coding challenges.
+- 💻 **Development Stats** – Projects built, tech stack used, and contributions.
+
+🔗 [View My Codolio Profile](https://codolio.com/profile/Prachi_Sharnagat)
+<br>
+<br>
+
+## 🧠 Problem Solving
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Prachi_Sharnagat/)
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/misscoder06/)
+<br>
 
 
-<h3 align="left">Connect with me:</h3>
+<h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/prachisharnagat" target="_blank" rel="noopener noreferrer">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachisharnagat" height="30" width="40" />
@@ -40,11 +53,13 @@ Excited to keep learning, building, and collaborating with like-minded people.
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Join Discord" height="30" width="40" />
   </a>
 </p>
-
+<br>
 
 ## 🎯 Career Goals  
-I'm passionate about becoming a skilled Software Engineer with strong foundations in full-stack development and problem-solving.  
-Currently focused on frontend development, mastering Data Structures and Algorithms, and building impactful projects.  
+I'm passionate about becoming a skilled **software engineer** with strong foundations in **full-stack development** and **problem-solving**.  
+Currently focused on frontend technologies, mastering DSA, and building impactful projects.
+
+
 
 
 
