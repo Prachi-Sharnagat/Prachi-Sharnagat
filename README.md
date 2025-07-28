@@ -51,7 +51,7 @@ Explore my Codolio profile for a concise snapshot of my technical journey:
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Join Discord" height="30" width="40" />
   </a>
 </p>
-<br>
+
 
 ## 🎯 Career Goals  
 I'm passionate about becoming a skilled **software engineer** with strong foundations in **full-stack development** and **problem-solving**.  
