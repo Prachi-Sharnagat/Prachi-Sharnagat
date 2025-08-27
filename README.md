@@ -45,10 +45,16 @@ Explore my Codolio profile for a concise snapshot of my technical journey:
 <h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/prachisharnagat" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachisharnagat" height="30" width="40" />
-  </a>
-  <a href="https://discord.gg/NEhevmzQ" target="_blank" rel="noopener noreferrer">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Join Discord" height="30" width="40" />
+<!--     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachisharnagat" height="30" width="40" /> -->
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a> &nbsp; 
+  <a href="mailto:prachisharnagat@gmail.com" target="_blank" rel="noopener noreferrer">
+<!--     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="prachisharnagat06@gmail.com" height="30" width="40" /> -->
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>&nbsp; 
+
+   <a href="https://github.com/Prachi-Sharnagat">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
 
