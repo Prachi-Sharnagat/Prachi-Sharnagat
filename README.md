@@ -37,7 +37,7 @@ Explore my Codolio profile for a concise snapshot of my technical journey:
 <br>
 
 ## 🧠 Problem Solving
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Prachi_Sharnagat/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/Prachi_Sharnagat/)  &nbsp; 
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/misscoder06/)
 <br>
 
