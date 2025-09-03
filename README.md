@@ -26,15 +26,20 @@ Excited to keep learning, building, and collaborating with like-minded people.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-sharnagat&layout=compact&theme=tokyonight&cache_seconds=300)
 <br>
 
+
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Prachi-Sharnagat&theme=radical&no-frame=true&margin-w=10&column=6)
 <br>
 
-## 📌 Featured Projects  
 
-### 🌐 Web Dev Project
-🔗 **Live Demo:** [Click Here](https://tfmvsl.csb.app/)  
-📂 **Source Code:** [GitHub Repo](https://github.com/Prachi-Sharnagat/web-dev-project)
+## 📌 Featured Projects  
+  
+🚀 A responsive single-page portfolio website with modern UI components and contact links.
+
+[![Live Demo](https://img.shields.io/badge/Live_Demo-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tfmvsl.csb.app/)
+&nbsp; 
+[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prachi-Sharnagat/web-dev-project)
+<br>
 <br>
 
 ## 🦉 Codolio Portfolio
@@ -45,6 +50,7 @@ Explore my Codolio profile for a concise snapshot of my technical journey:
 - 💻 **Development Stats** – Projects built, tech stack used, and contributions.
 
 🔗 [View My Codolio Profile](https://codolio.com/profile/Prachi_Sharnagat)
+<br>
 <br>
 
 ## 🧠 Problem Solving
