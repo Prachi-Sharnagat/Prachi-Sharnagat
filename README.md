@@ -26,6 +26,17 @@ Excited to keep learning, building, and collaborating with like-minded people.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-sharnagat&layout=compact&theme=tokyonight&cache_seconds=300)
 <br>
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=Prachi-Sharnagat&theme=radical&no-frame=true&margin-w=10&column=6)
+<br>
+
+## 📌 Featured Projects  
+
+### 🌐 Web Dev Project
+🔗 **Live Demo:** [Click Here](https://tfmvsl.csb.app/)  
+📂 **Source Code:** [GitHub Repo](https://github.com/Prachi-Sharnagat/web-dev-project)
+<br>
+
 ## 🦉 Codolio Portfolio
 
 Explore my Codolio profile for a concise snapshot of my technical journey:
