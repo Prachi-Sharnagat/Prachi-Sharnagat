@@ -65,7 +65,7 @@ Explore my Codolio profile for a concise snapshot of my technical journey:
 <!--     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachisharnagat" height="30" width="40" /> -->
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a> &nbsp; 
-  <a href="mailto:prachisharnagat@gmail.com" target="_blank" rel="noopener noreferrer">
+  <a href="mailto:prachisharnagat06@gmail.com" target="_blank" rel="noopener noreferrer">
 <!--     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="prachisharnagat06@gmail.com" height="30" width="40" /> -->
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>&nbsp; 
