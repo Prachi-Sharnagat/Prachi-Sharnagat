@@ -58,19 +58,17 @@ Explore my Codolio profile for a concise snapshot of my technical journey:
 [![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/user/misscoder06/)
 <br>
 
-
 <h2 align="left">Connect with me:</h2>
 <p align="left">
   <a href="https://www.linkedin.com/in/prachisharnagat" target="_blank" rel="noopener noreferrer">
-<!--     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="prachisharnagat" height="30" width="40" /> -->
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a> &nbsp; 
   <a href="mailto:prachisharnagat06@gmail.com" target="_blank" rel="noopener noreferrer">
-<!--     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/gmail.svg" alt="prachisharnagat06@gmail.com" height="30" width="40" /> -->
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>&nbsp; 
-
-   
+  </a> &nbsp; 
+  <a href="https://x.com/PrachiSharnagat" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  </a>
 </p>
 
 
