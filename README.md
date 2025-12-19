@@ -69,9 +69,6 @@ Explore my Codolio profile for a concise snapshot of my technical journey:
   <a href="mailto:prachisharnagat06@gmail.com" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a> &nbsp; 
-  <a href="https://x.com/PrachiSharnagat" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Twitter-black?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
-  </a>
 </p>
 
 
