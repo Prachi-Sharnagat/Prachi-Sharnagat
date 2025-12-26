@@ -30,11 +30,6 @@ Excited to keep learning, building, and collaborating with like-minded people.
 <br>
 
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Prachi-Sharnagat&theme=radical&no-frame=true&margin-w=10&column=6)
-<br>
-
-
 ## 📌 Featured Projects  
   
 🚀 A responsive single-page portfolio website with modern UI components and contact links.
