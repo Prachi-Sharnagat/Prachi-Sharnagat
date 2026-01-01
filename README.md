@@ -23,7 +23,7 @@ Excited to keep learning, building, and collaborating with like-minded people.
 
 
 ## 📊 GitHub Stats  
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prachi-sharnagat&show_icons=true&theme=tokyonight)  
+<!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prachi-sharnagat&show_icons=true&theme=tokyonight)  -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Prachi-Sharnagat&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-sharnagat&layout=compact&theme=tokyonight&cache_seconds=300)
