@@ -37,7 +37,8 @@ Excited to keep learning, building, and collaborating with like-minded people.
   <img src="https://leetcard.jacoblin.cool/Prachi_Sharnagat?theme=dark&font=Kanit&ext=heatmap">
 </p>
 <br>
-## 📌 Featured Projects  
+
+### 📌 Featured Projects  
   
 🚀 A responsive single-page portfolio website with modern UI components and contact links.
 
