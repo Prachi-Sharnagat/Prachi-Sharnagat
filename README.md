@@ -32,7 +32,11 @@ Excited to keep learning, building, and collaborating with like-minded people.
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-sharnagat&layout=compact&theme=tokyonight&cache_seconds=300)
 <br>
 
-
+### 🧠 Problem-Solving Stats (LeetCode)  
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Prachi_Sharnagat?theme=dark&font=Kanit&ext=heatmap">
+</p>
+<br>
 ## 📌 Featured Projects  
   
 🚀 A responsive single-page portfolio website with modern UI components and contact links.
