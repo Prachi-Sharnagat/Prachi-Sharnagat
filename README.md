@@ -22,18 +22,14 @@ Excited to keep learning, building, and collaborating with like-minded people.
  ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)![NodeJS](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats-fast.vercel.app/api?username=prachi-sharnagat&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=prachi-sharnagat&theme=radical&hide_border=false)<br/>
+![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prachi-sharnagat&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🧠 Problem-Solving Stats (LeetCode)
 
-
-## 📊 GitHub Stats  
-<!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prachi-sharnagat&show_icons=true&theme=tokyonight)  -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Prachi-Sharnagat&theme=radical&hide_border=false)](https://git.io/streak-stats)
-
-
-## 🧠 Problem-Solving Stats (LeetCode)  
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Prachi_Sharnagat?theme=dark&font=Kanit&ext=heatmap">
-</p>
+![](https://leetcard.jacoblin.cool/Prachi_Sharnagat?theme=dark&font=Kanit&ext=heatmap)
 
 ## 🦉 Codolio Portfolio
 
@@ -65,8 +61,5 @@ Explore my Codolio profile for a concise snapshot of my technical journey:
 ## 🎯 Career Goals  
 I'm passionate about becoming a skilled **software engineer** with strong foundations in **full-stack development** and **problem-solving**.  
 Currently focused on frontend technologies, mastering DSA, and building impactful projects.
-
-
-
 
 
