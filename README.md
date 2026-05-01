@@ -29,23 +29,11 @@ Excited to keep learning, building, and collaborating with like-minded people.
 <!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=prachi-sharnagat&show_icons=true&theme=tokyonight)  -->
 [![GitHub Streak](https://streak-stats.demolab.com?user=Prachi-Sharnagat&theme=radical&hide_border=false)](https://git.io/streak-stats)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=prachi-sharnagat&layout=compact&theme=tokyonight&cache_seconds=300)
-<br>
 
 ## 🧠 Problem-Solving Stats (LeetCode)  
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Prachi_Sharnagat?theme=dark&font=Kanit&ext=heatmap">
 </p>
-
-### 📌 Featured Projects  
-  
-🚀 A responsive single-page portfolio website with modern UI components and contact links.
-
-[![Live Demo](https://img.shields.io/badge/Live_Demo-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white)](https://tfmvsl.csb.app/)
-&nbsp; 
-[![Source Code](https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Prachi-Sharnagat/web-dev-project)
-<br>
-<br>
 
 ## 🦉 Codolio Portfolio
 
