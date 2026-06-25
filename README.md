@@ -27,6 +27,11 @@ Excited to keep learning, building, and collaborating with like-minded people.
 ![](https://streak-stats.demolab.com/?user=prachi-sharnagat&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prachi-sharnagat&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy-tawny.vercel.app/?username=Prachi-Sharnagat&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+
+---
+
 ## 🧠 Problem-Solving Stats (LeetCode)
 
 ![](https://leetcard.jacoblin.cool/Prachi_Sharnagat?theme=dark&font=Kanit&ext=heatmap)
