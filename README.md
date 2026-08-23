@@ -63,6 +63,22 @@ Explore my Codolio profile for a concise snapshot of my technical journey:
   </a> &nbsp; 
 </p>
 
+### 🐍 GitHub Snake
+
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Prachi-Sharnagat/Prachi-Sharnagat/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Prachi-Sharnagat/Prachi-Sharnagat/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Prachi-Sharnagat/Prachi-Sharnagat/output/github-snake.svg"
+    alt="GitHub Snake"
+  />
+</picture>
 
 ## 🎯 Career Goals  
 I'm passionate about becoming a skilled **software engineer** with strong foundations in **full-stack development** and **problem-solving**.  
