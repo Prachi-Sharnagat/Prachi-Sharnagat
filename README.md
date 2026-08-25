@@ -24,18 +24,30 @@ Excited to keep learning, building, and collaborating with like-minded people.
 ![Firestore](https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
 # 📊 GitHub Stats:
-![](https://github-readme-stats-fast.vercel.app/api?username=prachi-sharnagat&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-stats-fast.vercel.app/api?username=prachi-sharnagat&theme=radical&hide_border=false&include_all_commits=true&count_private=true&show=prs_merged,reviews,contribs)<br/>
 ![](https://streak-stats.demolab.com/?user=prachi-sharnagat&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=prachi-sharnagat&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy-tawny.vercel.app/?username=Prachi-Sharnagat&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
----
 
 ## 🧠 Problem-Solving Stats (LeetCode)
 
 ![](https://leetcard.jacoblin.cool/Prachi_Sharnagat?theme=dark&font=Kanit&ext=heatmap)
+<br>
+
+<h2> 📊 Development Stats (GitHub) </h2>
+<picture>
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/Prachi-Sharnagat/Prachi-Sharnagat/output/github-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/Prachi-Sharnagat/Prachi-Sharnagat/output/github-snake.svg"
+  />
+  <img
+    src="https://raw.githubusercontent.com/Prachi-Sharnagat/Prachi-Sharnagat/output/github-snake.svg"
+    alt="GitHub Snake"
+  />
+</picture>
 
 ## 🦉 Codolio Portfolio
 
@@ -63,22 +75,7 @@ Explore my Codolio profile for a concise snapshot of my technical journey:
   </a> &nbsp; 
 </p>
 
-### 🐍 GitHub Snake
 
-<picture>
-  <source
-    media="(prefers-color-scheme: dark)"
-    srcset="https://raw.githubusercontent.com/Prachi-Sharnagat/Prachi-Sharnagat/output/github-snake-dark.svg"
-  />
-  <source
-    media="(prefers-color-scheme: light)"
-    srcset="https://raw.githubusercontent.com/Prachi-Sharnagat/Prachi-Sharnagat/output/github-snake.svg"
-  />
-  <img
-    src="https://raw.githubusercontent.com/Prachi-Sharnagat/Prachi-Sharnagat/output/github-snake.svg"
-    alt="GitHub Snake"
-  />
-</picture>
 
 ## 🎯 Career Goals  
 I'm passionate about becoming a skilled **software engineer** with strong foundations in **full-stack development** and **problem-solving**.  
