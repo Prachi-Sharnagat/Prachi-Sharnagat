@@ -15,7 +15,11 @@ Excited to keep learning, building, and collaborating with like-minded people.
 
 - 📫 How to reach me **prachisharnagat06@gmail.com**
 
-
+## 📊 GitHub Stats
+<div>
+  <img src="https://github-readme-stats.vercel.app/api?username=Prachi-Sharnagat&show_icons=true&theme=radical" alt="Prachi's GitHub stats" height="180px" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prachi-Sharnagat&layout=compact&theme=radical" alt="Top Languages" height="180px" width="48%"/>
+</div>
 
 ## 🔥 Tech Stack
 
