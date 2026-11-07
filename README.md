@@ -1,17 +1,16 @@
 <h1 align="center">Hi 👋, I'm Prachi Sharnagat</h1>
-<h2 align="center">A passionate learner exploring the world of web development.</h2>
+<h3 align="center">Full Stack Developer | CSE Student | Problem Solver 🚀</h3>
 
 ## 💫 About Me
 
-I'm **Prachi Sharnagat**, a **B.Tech Computer Science and Engineering** student at **Shri Ramdeobaba College of Engineering and Management**.
-I'm a **Frontend Developer**, and I'm currently diving deeper into web development while also learning **Data Structures** to sharpen my problem-solving abilities.
-I'm passionate about creating **clean, responsive, and engaging user interfaces**.  
-Excited to keep learning, building, and collaborating with like-minded people.  
-**Let’s connect and grow together!** 🚀
+- 🎓 B.Tech Computer Science & Engineering student at **Shri Ramdeobaba College of Engineering and Management**.
+- 💻 Passionate **Full Stack Developer** focused on building scalable, responsive, and user-friendly web applications.
+- 🌱 Currently exploring **Full Stack Development, DevOps, and Machine Learning**.
+- 🛠️ Love turning ideas into real-world projects and solving complex problems.
+- 🧠 Practicing **Data Structures & Algorithms** to strengthen problem-solving skills.
+- 🤝 Open to collaborating on exciting projects and innovative ideas.
 
-- 🔭 I’m currently working on **React** to build dynamic, responsive user interfaces.
-
-- 🌱 I’m currently learning **Web Development and Data Structures & Algorithms**
+### 🚀 Let's Connect and Build Something Amazing!
 
 - 📫 How to reach me **prachisharnagat06@gmail.com**
 
