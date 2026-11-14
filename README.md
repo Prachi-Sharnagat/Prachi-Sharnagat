@@ -1,5 +1,41 @@
-<h1 align="center">Hi 👋, I'm Prachi Sharnagat</h1>
-<h3 align="center">Full Stack Developer | CSE Student | Problem Solver 🚀</h3>
+<h1 align="center">Prachi Sharnagat</h1>
+
+<h3 align="center">✨ Miss Coder | Building Dreams, One Line at a Time 💻</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;AI+Enthusiast;Problem+Solver;Building+Dreams+Through+Code" alt="Typing SVG" />
+</p>
+
+<p align="center">
+  Passionate about building impactful software, exploring emerging technologies, and turning ideas into reality. Learning by building, solving problems, and creating projects that make a difference.
+</p>
+
+<p align="center">
+<a href="https://github.com/Prachi-Sharnagat">
+<img src="https://img.shields.io/badge/GitHub-Prachi--Sharnagat-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
+<a href="https://leetcode.com/u/Prachi_Sharnagat/">
+<img src="https://img.shields.io/badge/LeetCode-Problem%20Solver-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+</a>
+</p>
+
+<h3 align="center">🛠️ Technologies I Work With</h3>
+
+<p align="center">
+<a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" /></a>
+<a href="https://react.dev/"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" /></a>
+<a href="https://nodejs.org/"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" /></a>
+<a href="https://expressjs.com/"><img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" /></a>
+<a href="https://www.mongodb.com/"><img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /></a>
+<a href="https://www.mysql.com/"><img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /></a>
+<a href="https://tailwindcss.com/"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" /></a>
+<a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /></a>
+<a href="https://github.com/features/copilot"><img src="https://img.shields.io/badge/AI%20Tools-Explore-8A2BE2?style=for-the-badge&logo=openai&logoColor=white" /></a>
+</p>
+
+<p align="center">
+  <b>Code. Create. Learn. Repeat. 🚀</b>
+</p>
 
 ## 💫 About Me
 
@@ -13,12 +49,6 @@
 ### 🚀 Let's Connect and Build Something Amazing!
 
 - 📫 How to reach me **prachisharnagat06@gmail.com**
-
-## 📊 GitHub Stats
-<div>
-  <img src="https://github-readme-stats.vercel.app/api?username=Prachi-Sharnagat&show_icons=true&theme=radical" alt="Prachi's GitHub stats" height="180px" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Prachi-Sharnagat&layout=compact&theme=radical" alt="Top Languages" height="180px" width="48%"/>
-</div>
 
 ## 🔥 Tech Stack
 
